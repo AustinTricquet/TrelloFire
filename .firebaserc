@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "trellofire-bfe1e": {
+      "hosting": {
+        "TrelloFire": [
+          "trellofire-bfe1e"
+        ]
+      }
+    }
+  }
+}
